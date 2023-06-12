@@ -14,7 +14,7 @@
     - gdb version used at the time that this was written is 12.1
 
 ## Sources
-# worldcities_clean.csv
+### worldcities_clean.csv
 - The following link is where I discovered the dataset utilized in the repository. [Found at this Github page](https://gist.github.com/curran/13d30e855d48cdd6f22acdf0afe27286/).
 - Explicit thanks to "curran" on Github for the simplified dataset from [Simplemaps: World Cities Database](https://simplemaps.com/data/world-cities) October 2019
     - This dataset has five different columns (city name, latitude, longitude, country, population).
