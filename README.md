@@ -12,7 +12,7 @@
     - MSYS2 compiler was used
     - g++ version used at the time that this was written is 12.1.0
     - gdb version used at the time that this was written is 12.1
-    - Look at file called "tasks.json" for further details regarding compiler and etc.
+    - Used g++.exe for compiling
 
 ## Sources
 ### worldcities_clean.csv
