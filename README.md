@@ -7,12 +7,12 @@
     - Details regarding the dataset can be found under [worldcities_clean.csv](#worldcities_cleancsv).
 
 ## Specs
-- As of git history "Updated README v1.1", the following was used.
+- As of git history "Updated README v1.6", the following was used.
     - Visual Studio Code v1.79.0
     - MSYS2 compiler was used
     - g++ version used at the time that this was written is 12.1.0
     - gdb version used at the time that this was written is 12.1
-    - Used g++.exe for compiling
+    - Compiler (Provided by tasks.json): C:\\msys64\\mingw64\\bin\\g++.exe
 
 ## Sources
 ### worldcities_clean.csv
