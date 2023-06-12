@@ -2,8 +2,7 @@
 - Calculates the distance between two cities on Earth
 
 ## Details
-- Program extracts data from dataset file [worldcities_clean.csv](#worldcities_cleancsv).
-- Converts dataset into a 2D matrix to lookup information and applies [Haversine formula](https://en.wikipedia.org/wiki/Haversine_formula) based off the inputs' latitude and longitude.
+- Program extracts data from dataset file [worldcities_clean.csv](#worldcities_cleancsv) and converts dataset into a 2D matrix. Once converted to a 2D data structure, it traverses the structure to lookup specific pieces of information and applies the [Haversine formula](https://en.wikipedia.org/wiki/Haversine_formula) based off the inputs' latitude and longitude.
     - Details regarding the dataset can be found under [worldcities_clean.csv](#worldcities_cleancsv).
 
 ## Specs
