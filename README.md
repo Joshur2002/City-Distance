@@ -6,4 +6,3 @@
 - The following link is where I discovered the dataset utilized in the repository. 
 https://gist.github.com/curran/13d30e855d48cdd6f22acdf0afe27286/
 - Explicit thanks to "curran" on Github for the simplified dataset from [Simplemaps: World Cities Database](https://simplemaps.com/data/world-cities) October 2019
-- The legal license is present in the Github link (first link provided under **Sources**)
